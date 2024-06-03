@@ -30,10 +30,10 @@ Enquanto isso, alguns dados do processo vão sendo mostrados.
 ![terminal](https://github.com/FranciscoAlveJr/Bot-PJE/assets/65497402/bc38a514-50c5-43fd-be8e-b6a431264139)
 <br>
 <br>
-Enquanto o programa não finaliza, os dados ficarão armazenados em uma subpasta com o nome do arquivo localizado na pasta `read/`.
+Enquanto o programa não finaliza, os dados ficarão armazenados em uma subpasta com o nome do arquivo localizado na pasta `read/`.<br>
 ![Captura de tela 2024-05-13 121055](https://github.com/FranciscoAlveJr/Bot-PJE/assets/65497402/007f7fab-4ca9-4987-a5a6-a39ebedb76f5)
 <br>
-Dentro da subpasta, com os dados armazenados, eles poderão ser devidamente tratados.
+Dentro da subpasta, com os dados armazenados, eles poderão ser devidamente tratados.<br>
 ![Captura de tela 2024-05-13 121214](https://github.com/FranciscoAlveJr/Bot-PJE/assets/65497402/da6459a8-77ac-4355-b4a5-31e729ee6254)
 
 ## ENCERRANDO
